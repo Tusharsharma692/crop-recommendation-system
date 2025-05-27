@@ -97,18 +97,6 @@ Recall
 
 F1-score for each crop
 
-📁 Folder Structure
-crop-recommendation-system/
-├── crop_dataset/
-│ └── crop_data.csv
-├── Crop_Recommendation.ipynb
-└── README.md
-
-💡 Future Improvements
-🖥️ Add a frontend UI with input forms
-
-🌐 Deploy as a web app using Flask or Streamlit
-
 ☁️ Integrate real-time weather APIs
 
 🌾 Support multiple crop recommendations per region
